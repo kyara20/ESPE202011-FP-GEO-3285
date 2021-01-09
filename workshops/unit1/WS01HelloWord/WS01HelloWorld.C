@@ -5,3 +5,4 @@ int main(){
 	printf("\n The grade is %d \n", grade);
 	return 0;
 }
+
