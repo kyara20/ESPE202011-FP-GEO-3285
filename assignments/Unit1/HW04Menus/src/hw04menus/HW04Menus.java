@@ -103,12 +103,10 @@ public class HW04Menus {
                 default:
                     System.out.println("Invalid option\n\n\n");
                     break;
-            }
+                }
             
-        } while (option != 6);   
+    } while (option != 6);   
     }
 
-    
-    
     
 }
