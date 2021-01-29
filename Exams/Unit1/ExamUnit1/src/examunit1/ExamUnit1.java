@@ -16,6 +16,7 @@ public class ExamUnit1 {
     /**
      * @param args the command line arguments
      */
+    @SuppressWarnings("empty-statement")
     public static void main(String[] args) {
         // TODO code application logic here
         
@@ -42,22 +43,11 @@ public class ExamUnit1 {
                     product = table * y;
                     System.out.println("6 * " + y + " = " + product);
                     break;
-                    
-                case 2:
-                    System.out.println("GOOD BYE MY FRIEND");
-                    System.exit(0);
-                    break;
-                    
-                default:
-                    System.out.println("Invalid option\n\n\n");
-                    break;
-                }
-            
-    } while (option != 2);   
-                    
-                    
-    }    
+                    }
+            }
+    }
 }
+    
     
 
 
