@@ -28,11 +28,11 @@ public class HW09EmbeddedStructures {
         char option;
         
         do {
-            System.out.print("Enter operand1: ");
+            System.out.print("Enter operand1 --> ");
             operand1 = scanner.nextInt();
             scanner.nextLine();
 
-            System.out.print("Enter operand2: ");
+            System.out.print("Enter operand2 -->  ");
             operand2 = scanner.nextInt();
             scanner.nextLine();
 
