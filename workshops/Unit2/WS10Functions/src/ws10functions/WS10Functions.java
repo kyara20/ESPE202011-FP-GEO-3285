@@ -15,8 +15,7 @@ public class WS10Functions {
  * @param args the command line arguments
  */
 public static void main(String[] args) {
-    
-    
+
         int divd = 5;
         int divr = 10;
         float quotient = 0;
