@@ -20,7 +20,7 @@ public static void main(String[] args) {
     // TODO code application logic here
   
         int dividend = 0;
-        int divider = 0;
+        int divisor = 0;
         float quotient;
         int x = 0;
         int y = 0;
@@ -32,10 +32,10 @@ public static void main(String[] args) {
         System.out.println("____________________________________  ");
         System.out.println("Enter dividend : ");
         dividend = input.nextInt();
-        System.out.println("Enter divider : ");
-        divider = input.nextInt();
+        System.out.println("Enter divisor : ");
+        divisor = input.nextInt();
         
-        quotient = (float) dividend / (float) divider;
+        quotient = (float) dividend / (float) divisor;
 
         System.out.println("The quotient  is -> " + quotient);
         
