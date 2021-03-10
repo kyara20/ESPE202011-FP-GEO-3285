@@ -20,7 +20,9 @@ public static void main(String[] args) {
         float quotient = 0;
         int x = 0;
         int y = 0;
-
+        
+        System.out.println("AUTHOR: KYARA LIZETH PILATAXI SARABIA ");
+        
         //call to divideTwoNumbers() function
         quotient = divideTwoNumbers(divd, divr);
 
