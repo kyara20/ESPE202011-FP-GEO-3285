@@ -1,0 +1,5 @@
+Lilies , Plantae , White , Temperate zones of Eurasia and North America , 3.9
+Tulips , Plantae , Pink , Middle East , 5.1
+Roses , Plantae , Red , Asian continent , 7.3
+Lotus flower , Plantae , Pink , Asia , 5.6
+Margaritas , Plantae , White , España , 5.3
